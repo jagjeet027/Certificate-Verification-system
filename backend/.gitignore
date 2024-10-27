@@ -1,0 +1,12 @@
+# Ignore node_modules and build files
+node_modules/
+dist/
+
+# Environment variables (important for security)
+.env
+
+# Logs and OS/IDE-specific files
+*.log
+.DS_Store
+.idea/
+.vscode/

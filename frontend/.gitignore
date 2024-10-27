@@ -1,0 +1,10 @@
+# Ignore node_modules and build files
+node_modules/
+build/
+
+
+# Logs and OS/IDE-specific files
+*.log
+.DS_Store
+.idea/
+.vscode/
